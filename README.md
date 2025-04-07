@@ -3,6 +3,10 @@
 
   -总结概要：docs/summary.md
 
--  截图：images/
+-  -截图：images/
 
   -来源：src/plot.py
+  
+  -环境配置文件:environment.yml
+  
+  -忽略的文件：.gitignore
